@@ -5,7 +5,7 @@ I have completed my Bachelor's in Computer Science and Engineering from **Birla 
 <br>
 Currently i am working as a **Software Engineer** at **Argano Keste** and working on independent project on **Machine Learning and NLP**
 
-- 🔭 I’m currently studying **Statistics** and working on my **Deep Learning Projects**
+- 🔭 I’m currently solving **Algorithmic Problems** and working on my **Machine Learning Projects**
 
 - 👯 I’m open for collaboration on **Machine Learning Projects**
 
