@@ -7,7 +7,7 @@ Currently i am working as a **Software Engineer** at **Argano Keste** and workin
 
 - 🔭 I’m currently solving **Algorithmic Problems** and working on my **Machine Learning Projects**
 
-- 👯 I’m open for collaboration on **Machine Learning Projects**
+- 👯 I’m open for collaboration on **Machine Learning Projects** and **Problem Solving**
 
 - 📫 How to reach me: **vishalroy2198@gmail.com**
 
