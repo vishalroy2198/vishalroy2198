@@ -3,11 +3,11 @@
 
 I have completed my Bachelor's in Computer Science and Engineering from **Birla Institute Of Technology,Mesra**.
 <br>
-Currently i am working as a **Software Engineer** at **Argano Keste** and working on independent project on **Machine Learning and NLP**
+Currently i am working as a **Software Engineer** at **Argano Keste** and solving  **Data Structures and Algorithm Problems**
 
-- 🔭 I’m currently solving **Algorithmic Problems** and working on my **Machine Learning Projects**
+- 🔭 I’m currently learning **Advanced Agorithms** and doing **LeetCode Problems**
 
-- 👯 I’m open for collaboration on **Machine Learning Projects** and **Problem Solving**
+- 👯 I’m open for collaboration for learning **Object Oriented Design(OOD)** and **Mock Interviews**
 
 - 📫 How to reach me: **vishalroy2198@gmail.com**
 
