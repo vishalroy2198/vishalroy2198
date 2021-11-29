@@ -43,31 +43,6 @@ Currently i am working as a **Software Engineer** at **Argano Keste** and workin
       alt="css3"/>
   </a>
 
-  <a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/numpy-013344.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="jetbrains" />
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/pandas-130753.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="jetbrains" />
-  </a>
-
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-  <img src="https://img.shields.io/badge/scikitlearn-3399cd.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="jetbrains" />
-  </a>
-  
-<a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/tensorflow-Ffe100.svg?style=for-the-badge&logo=tensorflow&logoColor=red" alt="jetbrains" />
-  </a>
-
-
-  <a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/pytorch-652257.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="jetbrains" />
-  </a>
-
-  <a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/keras-d00101.svg?style=for-the-badge&logo=keras&logoColor=white" alt="jetbrains" />
-  </a>
-
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -79,16 +54,10 @@ Currently i am working as a **Software Engineer** at **Argano Keste** and workin
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
   
-  <a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://img.shields.io/badge/anaconda-42b049.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="jetbrains" />
-  </a>
 </p>
 
 <div align="center">
