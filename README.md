@@ -17,7 +17,7 @@ Currently i am working as a **Software Engineer** at **Argano Keste** and solvin
 <div align="center">
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalroy2198@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalroy2198/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalroy0621/)
 [![image](https://img.shields.io/badge/github-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalroy2198)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishal.kr.roy/)
 [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vishalroy2198/)
