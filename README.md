@@ -5,7 +5,7 @@ I have completed my Bachelor's in Computer Science and Engineering from **Birla 
 <br>
 Currently i am working as a **Software Engineer** at **Argano Keste** and solving  **Data Structures and Algorithm Problems**
 
-- 🔭 I’m currently learning **Advanced Agorithms** and doing **LeetCode Problems**
+- 🔭 I’m currently learning **Agorithms** and doing **Problem Solving**
 
 - 👯 I’m open for collaboration for learning **Object Oriented Design(OOD)** and **Mock Interviews**
 
