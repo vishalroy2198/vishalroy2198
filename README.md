@@ -3,7 +3,7 @@
 
 I have completed my Bachelor's in Computer Science and Engineering from **Birla Institute Of Technology,Mesra**.
 <br>
-Currently i am working as a **Software Engineer** at **Argano Keste** and solving  **Data Structures and Algorithm Problems**
+Currently i am working as a **Software Engineer** at **Argano** and solving  **Data Structures and Algorithm Problems**
 
 - 🔭 I’m currently learning **Agorithms** and doing **Problem Solving**
 
