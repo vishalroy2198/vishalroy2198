@@ -6,7 +6,7 @@
 
 
 ## 👨🏻‍💻 &nbsp;About Me
-👨🏻‍💻 &nbsp; I currently work at [Credit Saison India](https://creditsaison.in/) as a Backend Engineer.
+👨🏻‍💻 &nbsp; I currently work at [Credit Saison India](https://creditsaison.in/) as a Backend Engineer.\
 💡 &nbsp;I'm a Computer Science and Software Engineer who has spent 3+ years trying to build scalable distributed systems and optimising engines.\
 🎓 &nbsp;I'm an alumnus of [Birla Institute Of Technology, Mesra](https://www.bitmesra.ac.in/). A proud BiTian :D \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
