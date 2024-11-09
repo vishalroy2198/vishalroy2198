@@ -30,7 +30,3 @@
 
 <a href="https://www.linkedin.com/in/vishalroy2198/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vishalroy2198@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalroy2198&show_icons=true&locale=en&layout=compact" alt="vishalroy2198" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalroy2198&show_icons=true&locale=en" alt="vishalroy2198" /></p>
